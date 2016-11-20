@@ -1,0 +1,5 @@
+package: .
+import:
+- package: gopkg.in/gin-gonic/gin.v1
+  version: ^1.0.0
+- package: github.com/lib/pq
